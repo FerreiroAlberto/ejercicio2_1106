@@ -14,6 +14,21 @@
                 "coordneadas": "2.65, 155°"
             },
             "en curso": true
+        },
+                {
+            "nombreMision": "Selene 2",
+            "empresa": "Nestle",
+            "tripulacion": ["Peter Griffin", "Peter Parker", "Peter Pan"],
+            "vehiculo": {
+                "nombre": "Atlantis",
+                "tipo": "space Fighter",
+                "capacidad": 3
+            },
+            "destino": {
+                "planeta": "Saturno",
+                "coordneadas": "2.65, 155°"
+            },
+            "en curso": false
         }
     ]
 }
