@@ -1,0 +1,19 @@
+{
+    "misiones": [
+        {
+            "nombreMision": "Selene 1",
+            "empresa": "Nestle",
+            "tripulacion": ["Jim Halpert", "Pam Beesley", "Michael Scott"],
+            "vehiculo": {
+                "nombre": "Nostromo",
+                "tipo": "Carguero Espacial",
+                "capacidad": 7
+            },
+            "destino": {
+                "planeta": "Saturno",
+                "coordneadas": "2.65, 155°"
+            },
+            "en curso": true
+        }
+    ]
+}
